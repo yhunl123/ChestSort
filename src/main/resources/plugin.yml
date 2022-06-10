@@ -1,0 +1,4 @@
+name: ChestSort
+version: '${version}'
+main: chestsort.chestsort.ChestSort
+api-version: 1.18
